@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:6
 #EXT-X-STREAM-INF:BANDWIDTH=3185600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://live.kinxie.com/live/vmqy9ivwyv4tgk9_53b6efe13cc172e1650d7575fdeab0e8_1080p.m3u8?auth_key=1782964257-0-0-7fe8b2e2e1a8136834c030c46ebc7fe7
+https://live5.kinxie.com/live/53452553_bfabe738a07ffadd7b4d6c4e186b727a_1080p.m3u8?auth_key=1782970205-0-0-8150c537b9881b98920bb7308853b960
 
 #EXT-X-STREAM-INF:BANDWIDTH=2195600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://live.kinxie.com/live/vmqy9ivwyv4tgk9_53b6efe13cc172e1650d7575fdeab0e8_720p.m3u8?auth_key=1782964257-0-0-7fe8b2e2e1a8136834c030c46ebc7fe7
+https://live5.kinxie.com/live/53452553_bfabe738a07ffadd7b4d6c4e186b727a_730p.m3u8?auth_key=1782970205-0-0-8150c537b9881b98920bb7308853b960
 
 #EXT-X-STREAM-INF:BANDWIDTH=798600,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://live.kinxie.com/live/vmqy9ivwyv4tgk9_53b6efe13cc172e1650d7575fdeab0e8_360p.m3u8?auth_key=1782964257-0-0-7fe8b2e2e1a8136834c030c46ebc7fe7
+https://live5.kinxie.com/live/53452553_bfabe738a07ffadd7b4d6c4e186b727a_360p.m3u8?auth_key=1782970205-0-0-8150c537b9881b98920bb7308853b960
